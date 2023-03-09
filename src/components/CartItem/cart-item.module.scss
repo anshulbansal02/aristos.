@@ -1,0 +1,70 @@
+@use "./../../styles/styling" as style;
+
+.container {
+    display: flex;
+    gap: 24px;
+
+    .cover {
+        max-width: 240px;
+
+        img {
+            max-inline-size: 100%;
+            block-size: auto;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 16px;
+        }
+    }
+
+    .details {
+        padding: 12px 0;
+        gap: 16px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .row1 {
+            display: flex;
+            justify-content: space-between;
+            gap: 40px;
+        }
+
+        .row3 {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+        }
+
+        .trashBtn {
+            width: 50px;
+            height: 20px;
+            display: grid;
+            place-items: center;
+            border: 0;
+            background-color: transparent;
+            cursor: pointer;
+        }
+
+        .title {
+            font-size: 2.4rem;
+            font-weight: 600;
+        }
+
+        .subtitle {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: style.$color-text-lighter;
+            text-transform: uppercase;
+            margin-bottom: 2px;
+        }
+
+        .description {
+            max-width: 56ch;
+        }
+
+        .size,
+        .price {
+            font-size: 2rem;
+        }
+    }
+}

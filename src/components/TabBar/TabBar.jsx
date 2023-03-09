@@ -11,6 +11,7 @@ export default function TabBar({ tabs = [], active }) {
                         className={classNames({
                             [styles.active]: active === tab,
                         })}
+                        key={tab}
                     >
                         <button>{tab}</button>
                     </li>
