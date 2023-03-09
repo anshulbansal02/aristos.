@@ -1,0 +1,104 @@
+.showcase {
+    display: flex;
+    gap: 40px;
+    padding: 24px;
+}
+
+.showcase-cover {
+    width: 100%;
+    height: 480px;
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+.showcase-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.showcase-details {
+    max-width: 400px;
+    padding: 12px 0;
+}
+
+.showcase-title {
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin-bottom: 8px;
+    font-family: "Space Grotesk";
+}
+
+.showcase-price {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.showcase-description {
+    font-size: 1.6rem;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+.showcase-thumbnails {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+}
+
+.showcase-thumbnails li {
+    // display: grid;
+    // place-items: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+}
+
+.showcase-thumbnails img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.showcase-thumbnails li.selected {
+    border: 2px solid rgba(0, 0, 0, 0.05);
+}
+
+.showcase-thumbnails li.selected img {
+    width: 50%;
+    height: 50%;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+    position: absolute;
+}
+
+.btn-group {
+    display: flex;
+    gap: 16px;
+}
+
+.btn-group button {
+    padding: 16px 48px;
+    border-radius: 50px;
+    font-size: 1.6rem;
+    cursor: pointer;
+}
+
+.btn-solid {
+    background-color: #222222;
+    color: #fff;
+    border: 0;
+}
+
+.btn-ghost {
+    background-color: transparent;
+    color: #000;
+    border: 1px solid rgb(186, 186, 186);
+}

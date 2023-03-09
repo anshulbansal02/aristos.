@@ -1,0 +1,30 @@
+@use "./../../styles/styling" as style;
+
+.container {
+    width: 100%;
+    border-bottom: 1.5px solid rgb(0, 0, 0, 0.05);
+
+    .tabs {
+        list-style: none;
+        display: flex;
+        position: relative;
+        bottom: -1.5px;
+
+        .active {
+            border-bottom: 1.5px solid style.$color-text-dark;
+        }
+
+        button {
+            padding: 12px 24px;
+            border: 0;
+            background-color: transparent;
+            text-transform: capitalize;
+            cursor: pointer;
+            transition: background-color 0.2s ease-out;
+
+            &:hover {
+                background-color: rgb(245, 244, 243);
+            }
+        }
+    }
+}

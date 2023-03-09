@@ -1,0 +1,46 @@
+@use "styling" as style;
+
+*,
+*::before,
+*::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: style.$font-ui;
+    color: style.$color-text-dark;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.4;
+
+    overflow-x: hidden;
+    position: relative;
+    min-height: 100vh;
+    width: 100vw;
+}
+
+a {
+    color: style.$color-text-dark;
+    text-decoration: none;
+}
+
+a,
+p,
+li,
+button {
+    font-size: 1.6rem;
+}
+
+.page-wrapper {
+    width: 92%;
+    max-width: 1400px;
+    margin: 0 auto;
+}

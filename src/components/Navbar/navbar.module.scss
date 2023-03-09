@@ -1,0 +1,41 @@
+@use "./../../styles/styling" as style;
+
+.container {
+    height: 80px;
+
+    &,
+    nav ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        list-style: none;
+    }
+
+    .primary {
+        ul {
+            gap: 40px;
+        }
+    }
+
+    .secondary {
+        ul {
+            gap: 16px;
+        }
+
+        li a {
+            display: flex;
+            align-items: center;
+            gap: 2px;
+        }
+
+        .badge {
+            font-size: 1rem;
+            font-weight: 600;
+            color: style.$color-text-white;
+            background-color: style.$color-text-dark;
+            line-height: 1;
+            padding: 3px 8px;
+            border-radius: 8px;
+        }
+    }
+}

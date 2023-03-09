@@ -1,0 +1,30 @@
+@use "./../../styles/styling" as style;
+
+.container {
+    padding: 80px 0;
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        margin-bottom: 48px;
+
+        .sectionTitle {
+            font-family: style.$font-display;
+            font-size: 4rem;
+            line-height: 1;
+        }
+
+        .sectionSubtitle {
+            line-height: 1.6;
+            text-align: right;
+        }
+    }
+
+    .listing {
+        list-style: none;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        grid-gap: 24px;
+    }
+}
