@@ -1,9 +1,17 @@
-import "./styles/global.scss";
 import { RouterProvider } from "react-router-dom";
+import { Provider } from "react-redux";
+
+import store from "./store";
 import router from "./views/router";
 
+import "./styles/global.scss";
+
 function App() {
-    return <RouterProvider router={router}></RouterProvider>;
+    return (
+        <Provider store={store}>
+            <RouterProvider router={router}></RouterProvider>
+        </Provider>
+    );
 }
 
 export default App;

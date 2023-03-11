@@ -1,4 +1,4 @@
-import { createBrowserRouter, Outlet, redirect } from "react-router-dom";
+import { createBrowserRouter, Outlet } from "react-router-dom";
 
 import AdminView from "./Admin/Admin";
 import CartView from "./Cart/Cart";

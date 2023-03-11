@@ -1,0 +1,95 @@
+{
+    "cart": {
+        "discountAmount": 45,
+        "subtotalAmount": 100,
+        "totalAmount": 65,
+        "shippingAmount": 10,
+        "items": [
+            {
+                "productId": 1,
+                "quantity": 3
+            },
+            {
+                "productId": 2,
+                "quantity": 1
+            }
+        ]
+    },
+
+    "catalogue": {
+        "products": [
+            {
+                "id": "shoe001",
+                "title": "Women's Running Shoes",
+                "description": "Breathable and lightweight shoes for running and training",
+                "sizes": ["US 6", "US 7", "US 8", "US 9", "US 10"],
+                "price": 79.99,
+                "tags": ["running", "women's shoes", "athletic"],
+                "listed": true
+            },
+            {
+                "id": "shoe002",
+                "title": "Men's Casual Sneakers",
+                "description": "Stylish and comfortable shoes for everyday wear",
+                "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+                "price": 59.99,
+                "tags": ["casual", "men's shoes"],
+                "listed": true
+            },
+            {
+                "id": "shoe003",
+                "title": "Women's Sandals",
+                "description": "Comfortable and stylish sandals for summer",
+                "sizes": ["US 6", "US 7", "US 8", "US 9", "US 10"],
+                "price": 39.99,
+                "tags": ["summer", "women's shoes"],
+                "listed": false
+            },
+            {
+                "id": "shoe004",
+                "title": "Men's Basketball Shoes",
+                "description": "High-top shoes with excellent grip for basketball players",
+                "sizes": ["US 9", "US 10", "US 11", "US 12", "US 13"],
+                "price": 129.99,
+                "tags": ["basketball", "men's shoes", "athletic"],
+                "listed": true
+            },
+            {
+                "id": "shoe005",
+                "title": "Women's Ankle Boots",
+                "description": "Stylish and comfortable boots for cold weather",
+                "sizes": ["US 6", "US 7", "US 8", "US 9"],
+                "price": 89.99,
+                "tags": ["winter", "women's shoes"],
+                "listed": true
+            },
+            {
+                "id": "shoe006",
+                "title": "Men's Dress Shoes",
+                "description": "Classic leather shoes for formal occasions",
+                "sizes": ["US 8", "US 9", "US 10", "US 11", "US 12"],
+                "price": 99.99,
+                "tags": ["formal", "men's shoes"],
+                "listed": true
+            },
+            {
+                "id": "shoe007",
+                "title": "Women's High Heels",
+                "description": "Elegant and comfortable heels for special occasions",
+                "sizes": ["US 6", "US 7", "US 8", "US 9"],
+                "price": 69.99,
+                "tags": ["heels", "women's shoes"],
+                "listed": true
+            },
+            {
+                "id": "shoe008",
+                "title": "Men's Running Shoes",
+                "description": "Comfortable and durable shoes for running and training",
+                "sizes": ["US 9", "US 10", "US 11", "US 12", "US 13"],
+                "price": 89.99,
+                "tags": ["running", "men's shoes"],
+                "listed": true
+            }
+        ]
+    }
+}

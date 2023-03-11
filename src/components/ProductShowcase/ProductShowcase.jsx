@@ -1,18 +1,22 @@
+import classNames from "classnames";
+
+import { Icon } from "./../../components";
+
 import styles from "./product-showcase.module.scss";
 
 export default function ProductShowcase() {
     return (
-        <div className="showcase">
-            <div className="showcase-col">
-                <div className="showcase-cover">
+        <div className={styles.container}>
+            <div className={styles.col}>
+                <div className={styles.cover}>
                     <img src="./assets/images/94eb686a-b427-45ec-9026-d81a893f3ae6.webp" />
                 </div>
-                <ul className="showcase-thumbnails">
+                <ul className={styles.thumbnails}>
                     <li>
                         <img src="./assets/images/9adf6ce4-9235-498a-86c4-2430a6e4cdad.webp" />
                     </li>
-                    <li className="selected">
-                        <img src="./assets/icons/arrow-up.svg" />
+                    <li className={styles.selected}>
+                        <Icon name="arrow-up" size={40} />
                     </li>
                     <li>
                         <img src="./assets/images/1f239f47-eee3-4f5e-9654-4793a2ba1b1c.webp" />
@@ -25,21 +29,60 @@ export default function ProductShowcase() {
                     </li>
                 </ul>
             </div>
-            <div className="showcase-col showcase-details">
-                <h2 className="showcase-title">Air Jordan 1 Mid SE Craft</h2>
-                <h3 className="showcase-price">$230</h3>
-                <p className="showcase-description">
+            <div className={classNames(styles.col, styles.details)}>
+                <h2 className={styles.title}>Air Jordan 1 Mid SE Craft</h2>
+                <h3 className={styles.price}>$230</h3>
+
+                <div className={styles.sizeChart}>
+                    <h5>Select Size</h5>
+                    <ul className={styles.sizes}>
+                        <li>
+                            <button>UK 6 (EU 40)</button>
+                        </li>
+                        <li>
+                            <button>UK 6.5</button>
+                        </li>
+                        <li>
+                            <button>UK 7</button>
+                        </li>
+                        <li>
+                            <button>UK 7.5</button>
+                        </li>
+                        <li>
+                            <button>UK 8</button>
+                        </li>
+                        <li>
+                            <button>UK 8.5</button>
+                        </li>
+                        <li>
+                            <button>UK 9</button>
+                        </li>
+                        <li>
+                            <button>UK 9.5</button>
+                        </li>
+                        <li>
+                            <button>UK 10</button>
+                        </li>
+                        <li>
+                            <button>UK 10.5</button>
+                        </li>
+                        <li>
+                            <button>UK 11</button>
+                        </li>
+                    </ul>
+                </div>
+
+                <p className={styles.description}>
                     Channel new levels of speed and power in shoes designed for
                     Zion and built for ballers at any level. An adjustable strap
                     up top helps lock your foot in place while a firm midsole
                     supports high-paced play. A wider outsole provides extra
-                    stability—perfect for playing on outdoor courts. And the
-                    Zion 2 has more Air cushioning than its predecessor, so
-                    you'll get into the clouds easier and land softer.
+                    stability—perfect for playing on outdoor courts.
                 </p>
-                <div className="btn-group">
-                    <button className="btn-solid">Add To Bag</button>
-                    <button className="btn-ghost">Add To Wishlist</button>
+
+                <div className={styles.btnGroup}>
+                    <button className={styles.btnSolid}>Add To Bag</button>
+                    <button className={styles.btnGhost}>Add To Wishlist</button>
                 </div>
             </div>
         </div>

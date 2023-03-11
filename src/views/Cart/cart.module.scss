@@ -1,8 +1,12 @@
+@use "./../../styles/styling" as style;
+
 .container {
     padding: 24px 0;
 
     main {
         display: flex;
+        align-items: start;
+        flex-wrap: wrap;
         gap: 24px;
     }
 
@@ -28,10 +32,91 @@
 
     .billing {
         position: sticky;
+        min-width: 360px;
         top: 148px;
         flex: 1;
-        height: 240px;
-        background-color: rgb(221, 226, 226);
+        max-width: 420px;
+        background-color: rgb(234, 239, 239);
         border-radius: 24px;
+        padding: 24px;
+
+        h3 {
+            font-size: 2rem;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+
+        table {
+            width: 100%;
+            font-size: 1.6rem;
+            margin-bottom: 16px;
+
+            td {
+                padding: 8px 0;
+
+                align-items: center;
+            }
+
+            tr td:last-child {
+                text-align: right;
+                font-weight: 600;
+            }
+
+            tr:last-child {
+                font-size: 2rem;
+            }
+        }
+
+        .payment {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+            margin-bottom: 24px;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            padding: 12px;
+            border-radius: 12px;
+
+            h5 {
+                font-size: 1.2rem;
+                font-weight: 600;
+                color: style.$color-text-lighter;
+                text-transform: uppercase;
+                // margin-bottom: 16px;
+                white-space: nowrap;
+            }
+
+            ul {
+                list-style: none;
+                display: flex;
+                width: 100%;
+                justify-content: space-between;
+                align-items: center;
+                // gap: 24px;
+
+                li {
+                    display: grid;
+                    place-items: center;
+                }
+
+                img {
+                    filter: grayscale(0.5);
+                    width: 40px;
+                }
+            }
+        }
+
+        button {
+            padding: 16px 48px;
+            border-radius: 50px;
+            font-size: 1.6rem;
+            cursor: pointer;
+            width: 100%;
+        }
+
+        .btnSolid {
+            background-color: #222222;
+            color: #fff;
+            border: 0;
+        }
     }
 }

@@ -21,7 +21,7 @@ export default function CartItem({
                         <p className={styles.size}>Size: {size}</p>
                     </div>
                     <button className={styles.trashBtn}>
-                        <Icon name="trash" size={20} />
+                        <Icon name="trash" size={20} color="#c80100" asSVG />
                     </button>
                 </div>
                 <div className={styles.row2}>

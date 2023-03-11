@@ -14,7 +14,7 @@ export default function ProductCard({
                     alt="Product"
                 />
                 <button className={styles.wishlistBtn}>
-                    <Icon name="heart" size={20} />
+                    <Icon name="heart" size={24} asSVG />
                 </button>
                 {tag && <p className={styles.tag}>{tag}</p>}
             </div>

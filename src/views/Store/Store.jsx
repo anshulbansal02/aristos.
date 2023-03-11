@@ -1,40 +1,29 @@
 import classNames from "classnames";
+import { useState } from "react";
+import { useSelector } from "react-redux";
 
-import { TextBanner, ProductCard } from "./../../components";
+import {
+    TextBanner,
+    ProductCard,
+    Modal,
+    ProductShowcase,
+} from "./../../components";
 
 import styles from "./store.module.scss";
 
 export default function Store() {
-    const catalogue = [
-        {
-            id: 1,
-            title: "Nike Air Force 1 '07 LV8",
-            price: 140,
-        },
-        {
-            id: 2,
-            title: "Nike Pegasus Trail 4 GORE-TEX",
-            price: 230,
-            tag: "New Arrival",
-        },
-        {
-            id: 3,
-            title: "Nike Air Force 1 '07 LV8",
-            price: 140,
-        },
-        {
-            id: 4,
-            title: "Nike Pegasus Trail 4 GORE-TEX",
-            price: 230,
-            tag: "New Arrival",
-        },
-    ];
+    const [isShowcaseOpen, setIsShowcaseOpen] = useState(false);
+
+    const products = useSelector((state) => state.catalogue.products);
 
     function Listing() {
         return (
             <ul className={styles.listing}>
-                {catalogue.map((product) => (
-                    <li key={product.id}>
+                {products.map((product) => (
+                    <li
+                        key={product.id}
+                        onClick={() => setIsShowcaseOpen(true)}
+                    >
                         <ProductCard data={product} />
                     </li>
                 ))}
@@ -63,6 +52,13 @@ export default function Store() {
 
                 <main>{Listing()}</main>
             </section>
+
+            <Modal
+                isOpen={isShowcaseOpen}
+                onOutsideClick={() => setIsShowcaseOpen(false)}
+            >
+                <ProductShowcase />
+            </Modal>
         </>
     );
 }

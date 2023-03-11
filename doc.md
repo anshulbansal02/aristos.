@@ -22,3 +22,17 @@
 - Quantity Counter
 - Total Price
 - Remove Button
+
+products = {
+    1: {
+        id: 1,
+        title: "",
+        description: ""
+        ...
+        listed: true/false
+    }
+}
+
+cart = [
+    {productId: 1, quantity: 4}
+]
