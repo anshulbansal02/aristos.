@@ -1,10 +1,8 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-import mockData from "./../constants/mockData.json";
-
 const cartSlice = createSlice({
     name: "cart",
-    initialState: mockData.cart,
+    initialState: {},
     reducers: {
         addToCart(state, action) {},
         removeFromCart(state, action) {},

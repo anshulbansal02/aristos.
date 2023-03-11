@@ -10,7 +10,7 @@
 
 html {
     font-size: 9.5px;
-    // overflow-x: hidden;
+    overflow-x: hidden;
     scroll-behavior: smooth;
 }
 
@@ -22,7 +22,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     line-height: 1.4;
 
-    // overflow-x: hidden;
+    overflow-x: hidden;
     position: relative;
     min-height: 100vh;
     width: 100vw;
@@ -42,6 +42,20 @@ button {
 
 .page-wrapper {
     width: 92%;
-    max-width: 1400px;
+    max-width: 1440px;
     margin: 0 auto;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: style.$color-text-lighter;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+}
+
+@media only screen and (max-width: 48rem) {
+    .page-wrapper {
+        width: 94%;
+    }
 }

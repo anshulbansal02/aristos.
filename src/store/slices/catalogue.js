@@ -1,10 +1,10 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-import mockData from "./../constants/mockData.json";
+import productsMockData from "./../constants/mock/products.json";
 
 const catalogueSlice = createSlice({
-    name: "products",
-    initialState: mockData.catalogue,
+    name: "catalogue",
+    initialState: { products: productsMockData },
     reducers: {
         addProduct(state, action) {},
 

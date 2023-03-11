@@ -3,28 +3,29 @@ import { Icon } from "./../../components";
 import styles from "./product-card.module.scss";
 
 export default function ProductCard({
-    data: { id, cover, tag, title, price },
+    data: { tag, title, subtitle, price, images },
+    onOpen,
 }) {
+    function handleWishlist() {}
+
     return (
         <div className={styles.container}>
             <div className={styles.cover}>
                 <img
                     className={styles.image}
-                    src="./assets/images/19b9c4f4-8af9-47ba-9491-52be0849e48e.webp"
-                    alt="Product"
+                    src={images[0]}
+                    alt={title}
+                    onClick={onOpen}
                 />
-                <button className={styles.wishlistBtn}>
+                <button className={styles.wishlistBtn} onClick={handleWishlist}>
                     <Icon name="heart" size={24} asSVG />
                 </button>
                 {tag && <p className={styles.tag}>{tag}</p>}
             </div>
-            <div className={styles.details}>
-                <div>
-                    <p className={styles.subtitle}>Men's Shoes | 6 sizes</p>
-
-                    <p className={styles.title}>{title}</p>
-                </div>
-                <p className={styles.price}>${price}</p>
+            <div className={styles.details} onClick={onOpen}>
+                <p className="subtitle">{subtitle}</p>
+                <p className={styles.title}>{title}</p>
+                <p className={styles.price}>₹ {price}</p>
             </div>
         </div>
     );

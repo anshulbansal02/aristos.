@@ -1,8 +1,8 @@
 import { createBrowserRouter, Outlet } from "react-router-dom";
 
-import AdminView from "./Admin/Admin";
-import CartView from "./Cart/Cart";
-import StoreView from "./Store/Store";
+import AdminView from "./AdminView/AdminView";
+import CartView from "./CartView/CartView";
+import StoreView from "./StoreView/StoreView";
 import { Navbar } from "../components";
 
 const router = createBrowserRouter([
