@@ -1,4 +1,4 @@
-import { Icon } from "./../../components";
+import { Icon, Tag } from "./../../components";
 
 import styles from "./product-card.module.scss";
 
@@ -20,7 +20,8 @@ export default function ProductCard({
                 <button className={styles.wishlistBtn} onClick={handleWishlist}>
                     <Icon name="heart" size={24} asSVG />
                 </button>
-                {tag && <p className={styles.tag}>{tag}</p>}
+
+                <div className={styles.label}>{tag && <Tag text={tag} />}</div>
             </div>
             <div className={styles.details} onClick={onOpen}>
                 <p className="subtitle">{subtitle}</p>

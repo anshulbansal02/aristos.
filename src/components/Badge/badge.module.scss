@@ -1,0 +1,11 @@
+@use "./../../styles/styling" as style;
+
+.wrapper {
+    font-size: 1rem;
+    font-weight: 600;
+    color: style.$color-text-white;
+    background-color: style.$color-text-dark;
+    line-height: 1;
+    padding: 3px 8px;
+    border-radius: 8px;
+}

@@ -8,3 +8,5 @@ export { default as Stepper } from "./Stepper/Stepper.jsx";
 export { default as TabBar } from "./TabBar/TabBar.jsx";
 export { default as CartItem } from "./CartItem/CartItem.jsx";
 export { default as Modal } from "./Modal/Modal.jsx";
+export { default as Badge } from "./Badge/Badge.jsx";
+export { default as Tag } from "./Tag/Tag.jsx";
