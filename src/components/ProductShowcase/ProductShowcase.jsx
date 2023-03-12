@@ -1,89 +1,128 @@
 import classNames from "classnames";
+import { useState } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import { addToCart, removeFromCart } from "../../store/slices/cart";
+import { toggleProductInWishlist } from "../../store/slices/wishlist";
 
-import { Icon } from "./../../components";
+import { Icon, Stepper } from "./../../components";
 
 import styles from "./product-showcase.module.scss";
 
-export default function ProductShowcase() {
+export default function ProductShowcase({ productId }) {
+    const product = useSelector((state) =>
+        state.catalogue.products.find((product) => productId === product.id)
+    );
+    const wishlisted = useSelector((state) =>
+        Boolean(state.wishlist[productId])
+    );
+
+    const dispatch = useDispatch();
+
+    function handleWishlist() {
+        dispatch(
+            toggleProductInWishlist({
+                productId,
+            })
+        );
+    }
+
+    function handleAddToCart() {
+        dispatch(addToCart({ productId, quantity: 1, size: selectedSize }));
+    }
+
+    function handleRemoveFromCart() {
+        dispatch(
+            removeFromCart({ productId, quantity: 1, size: selectedSize })
+        );
+    }
+
+    const [coverInView, setCoverInView] = useState(product.images[0]);
+    const [selectedSize, setSelectedSize] = useState(null);
+
+    const quantityInCart = useSelector(
+        (state) => state.cart.items[`${productId}#${selectedSize}`]?.quantity
+    );
+
     return (
         <div className={styles.container}>
             <div className={styles.col}>
                 <div className={styles.cover}>
-                    <img src="./assets/images/94eb686a-b427-45ec-9026-d81a893f3ae6.webp" />
+                    <img src={coverInView} alt={product.title} />
                 </div>
                 <ul className={styles.thumbnails}>
-                    <li>
-                        <img src="./assets/images/9adf6ce4-9235-498a-86c4-2430a6e4cdad.webp" />
-                    </li>
-                    <li className={styles.selected}>
-                        <Icon name="arrow-up" size={40} />
-                    </li>
-                    <li>
-                        <img src="./assets/images/1f239f47-eee3-4f5e-9654-4793a2ba1b1c.webp" />
-                    </li>
-                    <li>
-                        <img src="./assets/images/12102bb5-262e-4b31-a29d-b8ee0b8ea20b.webp" />
-                    </li>
-                    <li>
-                        <img src="./assets/images/cfb2bbdf-facc-4c7d-a55a-e995710dcb6d.webp" />
-                    </li>
+                    {product.images.map((image) => (
+                        <li
+                            key={image}
+                            onClick={() => setCoverInView(image)}
+                            className={classNames({
+                                [styles.selected]: coverInView === image,
+                            })}
+                        >
+                            {coverInView === image ? (
+                                <Icon name="arrow-up" size={40} />
+                            ) : (
+                                <img src={image} alt={product.title} />
+                            )}
+                        </li>
+                    ))}
                 </ul>
             </div>
             <div className={classNames(styles.col, styles.details)}>
-                <h2 className={styles.title}>Air Jordan 1 Mid SE Craft</h2>
-                <h3 className={styles.price}>$230</h3>
+                <h2 className={styles.title}>{product.title}</h2>
+                <h3 className={styles.price}>₹ {product.price}</h3>
 
                 <div className={styles.sizeChart}>
                     <h5>Select Size</h5>
                     <ul className={styles.sizes}>
-                        <li>
-                            <button>UK 6 (EU 40)</button>
-                        </li>
-                        <li>
-                            <button>UK 6.5</button>
-                        </li>
-                        <li>
-                            <button>UK 7</button>
-                        </li>
-                        <li>
-                            <button>UK 7.5</button>
-                        </li>
-                        <li>
-                            <button>UK 8</button>
-                        </li>
-                        <li>
-                            <button>UK 8.5</button>
-                        </li>
-                        <li>
-                            <button>UK 9</button>
-                        </li>
-                        <li>
-                            <button>UK 9.5</button>
-                        </li>
-                        <li>
-                            <button>UK 10</button>
-                        </li>
-                        <li>
-                            <button>UK 10.5</button>
-                        </li>
-                        <li>
-                            <button>UK 11</button>
-                        </li>
+                        {product.sizes.map((size) => (
+                            <li key={size}>
+                                <button
+                                    onClick={() => setSelectedSize(size)}
+                                    className={classNames({
+                                        [styles.selected]:
+                                            size === selectedSize,
+                                    })}
+                                >
+                                    {size}
+                                </button>
+                            </li>
+                        ))}
                     </ul>
+                </div>
+
+                <div className={styles.btnGroup}>
+                    {quantityInCart ? (
+                        <Stepper
+                            value={`${quantityInCart} In Bag`}
+                            onLeftClick={handleRemoveFromCart}
+                            onRightClick={handleAddToCart}
+                        />
+                    ) : (
+                        <button
+                            className={styles.btnSolid}
+                            onClick={handleAddToCart}
+                            disabled={!selectedSize}
+                        >
+                            Add To Bag
+                        </button>
+                    )}
+
+                    <button
+                        className={styles.btnGhost}
+                        onClick={handleWishlist}
+                    >
+                        {wishlisted
+                            ? "Remove From Wishlist"
+                            : "Add To Wishlist"}
+                    </button>
                 </div>
 
                 <p className={styles.description}>
                     Channel new levels of speed and power in shoes designed for
                     Zion and built for ballers at any level. An adjustable strap
                     up top helps lock your foot in place while a firm midsole
-                    supports high-paced play. A wider outsole provides extra
-                    stability—perfect for playing on outdoor courts.
+                    supports high-paced play.
                 </p>
-
-                <div className={styles.btnGroup}>
-                    <button className={styles.btnSolid}>Add To Bag</button>
-                    <button className={styles.btnGhost}>Add To Wishlist</button>
-                </div>
             </div>
         </div>
     );

@@ -2,15 +2,15 @@ import { Icon } from "./../../components";
 
 import styles from "./stepper.module.scss";
 
-export default function Stepper({ value }) {
+export default function Stepper({ value, onLeftClick, onRightClick }) {
     return (
         <div className={styles.container}>
-            <button>
-                <Icon name="chevron-left" size={16} />
+            <button onClick={onLeftClick}>
+                <Icon name="minus" size={16} />
             </button>
             <span className={styles.value}>{value}</span>
-            <button>
-                <Icon name="chevron-right" size={16} />
+            <button onClick={onRightClick}>
+                <Icon name="plus" size={16} />
             </button>
         </div>
     );

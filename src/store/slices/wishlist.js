@@ -1,16 +1,21 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-import mockData from "./../constants/mockData.json";
-
 const wishlistSlice = createSlice({
     name: "wishlist",
-    initialState: mockData.wishlist,
+    initialState: {},
     reducers: {
-        addToWishlist(state, action) {},
-        removeFromWishlist(state, action) {},
+        toggleProductInWishlist(state, action) {
+            const { productId } = action.payload;
+            state[productId] = !state[productId];
+        },
+
+        // addToWishlist(state, action) {
+        //     state.push({ id: action.payload.productId });
+        // },
+        // removeFromWishlist(state, action) {},
     },
 });
 
 export default wishlistSlice;
 
-export const { addToWishlist, removeFromWishlist } = wishlistSlice.actions;
+export const { toggleProductInWishlist } = wishlistSlice.actions;

@@ -12,7 +12,7 @@ import {
 import styles from "./store-view.module.scss";
 
 export default function StoreView() {
-    const [isShowcaseOpen, setIsShowcaseOpen] = useState(false);
+    const [showcasedProductId, setShowcasedProductId] = useState(null);
 
     const products = useSelector((state) => state.catalogue.products);
 
@@ -23,7 +23,7 @@ export default function StoreView() {
                     <li key={product.id}>
                         <ProductCard
                             data={product}
-                            onOpen={() => setIsShowcaseOpen(true)}
+                            onOpen={(id) => setShowcasedProductId(id)}
                         />
                     </li>
                 ))}
@@ -54,10 +54,10 @@ export default function StoreView() {
             </section>
 
             <Modal
-                isOpen={isShowcaseOpen}
-                onOutsideClick={() => setIsShowcaseOpen(false)}
+                isOpen={showcasedProductId}
+                onOutsideClick={() => setShowcasedProductId(null)}
             >
-                <ProductShowcase />
+                <ProductShowcase productId={showcasedProductId} />
             </Modal>
         </>
     );

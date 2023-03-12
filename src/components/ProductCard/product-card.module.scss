@@ -30,12 +30,8 @@
             background-color: transparent;
             cursor: pointer;
 
-            &:hover svg {
-                color: rgba(218, 32, 32, 0.56);
-                fill: rgba(218, 32, 32, 0.1);
-            }
-
             svg {
+                stroke-width: 1.5px;
                 color: style.$color-text-lighter;
             }
         }
