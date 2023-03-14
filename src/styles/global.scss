@@ -22,7 +22,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     line-height: 1.4;
 
-    overflow-x: hidden;
+    // overflow-x: hidden;
     position: relative;
     min-height: 100vh;
     width: 100vw;
@@ -52,6 +52,23 @@ button {
     color: style.$color-text-lighter;
     text-transform: uppercase;
     margin-bottom: 2px;
+}
+
+button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btnSolid {
+    background-color: #222222;
+    color: #fff;
+    border: 0;
+}
+
+.btnGhost {
+    background-color: transparent;
+    color: #000;
+    border: 1px solid rgb(186, 186, 186);
 }
 
 @media only screen and (max-width: 48rem) {

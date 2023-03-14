@@ -4,15 +4,10 @@ const wishlistSlice = createSlice({
     name: "wishlist",
     initialState: {},
     reducers: {
-        toggleProductInWishlist(state, action) {
+        toggleProductInWishlist(wishlist, action) {
             const { productId } = action.payload;
-            state[productId] = !state[productId];
+            wishlist[productId] = !wishlist[productId];
         },
-
-        // addToWishlist(state, action) {
-        //     state.push({ id: action.payload.productId });
-        // },
-        // removeFromWishlist(state, action) {},
     },
 });
 

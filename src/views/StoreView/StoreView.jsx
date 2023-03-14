@@ -14,7 +14,9 @@ import styles from "./store-view.module.scss";
 export default function StoreView() {
     const [showcasedProductId, setShowcasedProductId] = useState(null);
 
-    const products = useSelector((state) => state.catalogue.products);
+    const products = useSelector((state) =>
+        state.catalogue.products.filter((product) => product.listed)
+    );
 
     function Listing() {
         return (

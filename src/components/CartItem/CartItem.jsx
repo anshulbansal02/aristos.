@@ -1,6 +1,7 @@
 import { useDispatch, useSelector } from "react-redux";
 import { addToCart, removeFromCart } from "../../store/slices/cart";
 import { Stepper, Icon } from "./../../components";
+import { clipText } from "./../../utils";
 
 import styles from "./cart-item.module.scss";
 
@@ -36,6 +37,7 @@ export default function CartItem({ productId, quantity, size }) {
                 productId,
                 quantity: 1,
                 size,
+                price: product.price,
             })
         );
     }
@@ -48,7 +50,7 @@ export default function CartItem({ productId, quantity, size }) {
             <div className={styles.details}>
                 <div className={styles.row1}>
                     <div>
-                        <p className={styles.subtitle}>{product.subtitle}</p>
+                        <p className="subtitle">{product.subtitle}</p>
                         <h3 className={styles.title}>{product.title}</h3>
                         <p className={styles.size}>Size: {size}</p>
                     </div>
@@ -60,10 +62,12 @@ export default function CartItem({ productId, quantity, size }) {
                     </button>
                 </div>
                 <div className={styles.row2}>
-                    <p className={styles.description}>{product.description}</p>
+                    <p className={styles.description}>
+                        {clipText(product.description, 128)}
+                    </p>
                 </div>
                 <div className={styles.row3}>
-                    <p className={styles.price}>{product.price}</p>
+                    <p className={styles.price}>₹ {product.price}</p>
                     <Stepper
                         value={`${quantity} Pair${quantity > 1 ? "s" : ""}`}
                         onLeftClick={decreaseQuantity}

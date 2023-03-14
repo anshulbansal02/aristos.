@@ -1,5 +1,6 @@
 import classNames from "classnames";
 import { useState } from "react";
+import { useSelector } from "react-redux";
 import { Link } from "react-router-dom";
 
 import { Logo, Icon, Badge } from "./../../components";
@@ -8,6 +9,8 @@ import styles from "./navbar.module.scss";
 
 export default function Navbar() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+    const cartItemsCount = useSelector((state) => state.cart.itemsCount);
 
     return (
         <div className={styles.container}>
@@ -58,7 +61,9 @@ export default function Navbar() {
                         <li>
                             <Link to="/cart">
                                 <Icon name="bag" size={20} asSVG />
-                                <Badge text="4" />
+                                {cartItemsCount ? (
+                                    <Badge text={cartItemsCount} />
+                                ) : null}
                             </Link>
                         </li>
                         <li>

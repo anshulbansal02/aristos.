@@ -4,7 +4,9 @@
         "title": "Air Jordan 1 Retro High OG",
         "subtitle": "Men's Shoes",
         "price": 16995,
-        "tag": "Exclusive",
+        "description": "Velit dolor dolorem etincidunt modi dolorem. Dolore quiquia adipisci ut quaerat sit dolor. Quaerat quisquam sed dolor. Labore adipisci voluptatem ut quiquia velit velit. Magnam quaerat velit voluptatem magnam quisquam adipisci eius. Tempora quisquam voluptatem quaerat consectetur neque tempora ut. Velit modi numquam porro sed non non adipisci.",
+        "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//91303bf8-6b3e-451b-94e6-1933d982689d/91303bf8-6b3e-451b-94e6-1933d982689d.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//477dc00c-abe4-4cb1-8685-1db82b75a4f1/477dc00c-abe4-4cb1-8685-1db82b75a4f1.png",
@@ -36,7 +38,9 @@
         "title": "Nike Air Max 90 SE",
         "subtitle": "Men's Shoes",
         "price": 12795,
-        "tag": "Collection",
+        "description": "Aliquam quaerat dolore porro non dolorem ipsum magnam. Neque sed dolore neque. Consectetur etincidunt magnam sed ut ipsum. Est magnam voluptatem labore modi est amet. Velit ipsum voluptatem modi tempora numquam quiquia. Ut numquam magnam dolor dolore neque magnam amet. Tempora velit neque ut eius amet dolor sed. Dolore neque neque est ipsum.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//89ff81a5-c881-4aa8-a4c0-8880583636ca/89ff81a5-c881-4aa8-a4c0-8880583636ca.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//79663a00-7c9d-44eb-b01c-716a8fc701f6/79663a00-7c9d-44eb-b01c-716a8fc701f6.png",
@@ -73,7 +77,9 @@
         "title": "Air Jordan 1 Mid SE",
         "subtitle": "Men's Shoes",
         "price": 12295,
+        "description": "Sed non dolore quiquia sit est sed adipisci. Dolor neque aliquam labore sit quisquam. Adipisci sit labore labore. Sed adipisci ipsum amet non. Est modi numquam labore quaerat sed etincidunt consectetur.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3b8a8a4b-7dcb-4495-a3aa-83386f143cc8/3b8a8a4b-7dcb-4495-a3aa-83386f143cc8.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//25b31535-5498-4f5c-aa85-ed47b1944d83/25b31535-5498-4f5c-aa85-ed47b1944d83.png",
@@ -107,7 +113,9 @@
         "title": "Nike Air Max TW SE",
         "subtitle": "Men's Shoes",
         "price": 15995,
+        "description": "Sit tempora ipsum velit dolor numquam adipisci. Ut dolor dolor ut aliquam neque. Amet sed ut amet est. Est adipisci quisquam sed quaerat neque dolore velit. Neque modi quiquia tempora labore. Ut magnam labore porro sit.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//6ce6980d-60d0-478f-adf3-106c7bacced9/6ce6980d-60d0-478f-adf3-106c7bacced9.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//021e3756-c959-4bb2-97c4-ac236fcd12e7/021e3756-c959-4bb2-97c4-ac236fcd12e7.png",
@@ -143,7 +151,9 @@
         "title": "NikeCourt Legacy",
         "subtitle": "Men's Shoes",
         "price": 5695,
+        "description": "Sit amet tempora dolore quiquia sit porro. Aliquam eius quisquam voluptatem. Dolor eius quaerat voluptatem dolore sit dolore. Quisquam eius quiquia dolore modi eius adipisci neque. Quiquia dolore adipisci aliquam sed eius velit quiquia. Ut dolore non ipsum quiquia voluptatem. Non numquam dolore modi. Ut magnam voluptatem ipsum. Quisquam aliquam sit dolor sed eius dolor sit. Ipsum consectetur sed etincidunt.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//aaac8e7b-b62e-4023-9844-7ac4a0577f0a/aaac8e7b-b62e-4023-9844-7ac4a0577f0a.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b67f721b-5f99-45a4-9341-217e193c3563/b67f721b-5f99-45a4-9341-217e193c3563.png",
@@ -176,7 +186,9 @@
         "title": "Nike Air Deldon \"Hoodie\"",
         "subtitle": "Basketball Shoes",
         "price": 10795,
+        "description": "Sed non velit magnam ut. Ipsum consectetur quaerat numquam neque aliquam. Numquam quiquia dolor etincidunt. Sit numquam sed amet neque. Dolor etincidunt consectetur consectetur sed sed.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//d0e788b2-3cef-4bf3-b11a-f0683f0b1447/d0e788b2-3cef-4bf3-b11a-f0683f0b1447.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//9642fc21-b84f-4810-b1a6-ceeea25b214c/9642fc21-b84f-4810-b1a6-ceeea25b214c.png",
@@ -213,7 +225,9 @@
         "title": "Nike Air Max 97 SE",
         "subtitle": "Men's Shoes",
         "price": 17495,
+        "description": "Quisquam sed neque porro sed ipsum quiquia. Adipisci quiquia ipsum velit eius eius. Quisquam ipsum non quaerat tempora dolorem ipsum eius. Eius quiquia etincidunt quaerat non. Eius magnam quaerat sit quisquam amet voluptatem etincidunt. Adipisci non magnam non ipsum consectetur. Adipisci adipisci voluptatem neque quisquam. Quaerat quisquam dolorem non tempora adipisci. Quiquia amet modi quaerat dolore est. Modi modi amet velit aliquam neque eius quiquia.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//90af2c02-5d95-464a-92c7-4454350960d5/90af2c02-5d95-464a-92c7-4454350960d5.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ae653456-f600-4a12-b370-8be49f4c7a90/ae653456-f600-4a12-b370-8be49f4c7a90.png",
@@ -252,7 +266,9 @@
         "title": "Jordan Why Not .6 PF",
         "subtitle": "Men's Shoes",
         "price": 13995,
-        "tag": null,
+        "description": "Tempora tempora ipsum dolorem quaerat velit ipsum. Sed non labore dolore. Porro numquam quisquam quisquam dolorem neque. Consectetur modi eius eius dolorem modi voluptatem. Amet etincidunt ut aliquam sit. Eius ut voluptatem dolor consectetur ut. Consectetur neque sit adipisci consectetur sed labore.",
+        "tag": "Collection",
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//92859bb7-99a7-410b-9220-6753f504ab79/92859bb7-99a7-410b-9220-6753f504ab79.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//aef21894-5f91-4e5d-9ff6-2a3419f7a8d5/aef21894-5f91-4e5d-9ff6-2a3419f7a8d5.png",
@@ -285,7 +301,9 @@
         "title": "Air Jordan XXXVII Low PF",
         "subtitle": "Men's Basketball Shoes",
         "price": 16295,
-        "tag": null,
+        "description": "Dolore dolore etincidunt sit neque neque magnam modi. Neque non modi quisquam ut quisquam. Neque modi adipisci dolore eius. Non modi modi amet ut tempora modi numquam. Consectetur adipisci sed quisquam ut tempora amet. Tempora non ipsum adipisci. Tempora porro tempora velit amet amet aliquam porro. Etincidunt velit sit etincidunt non modi porro. Neque quiquia sed voluptatem.",
+        "tag": "Collection",
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//44f666b8-2809-4ad4-ae81-d6dd98756f31/44f666b8-2809-4ad4-ae81-d6dd98756f31.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//9ee85576-7fe7-4e3f-9ff3-7961c7ca137c/9ee85576-7fe7-4e3f-9ff3-7961c7ca137c.png",
@@ -319,7 +337,9 @@
         "title": "Nike Air Max Plus SE",
         "subtitle": "Men's Shoes",
         "price": 16995,
+        "description": "Porro magnam quaerat magnam ut consectetur quisquam quisquam. Quaerat dolorem est quaerat neque tempora non non. Etincidunt voluptatem non numquam. Est sit sit quiquia eius numquam magnam labore. Quaerat voluptatem ut est tempora dolorem sed etincidunt. Amet ut dolore magnam aliquam.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//02322565-6cf8-4b43-bf39-5a6939c42a84/02322565-6cf8-4b43-bf39-5a6939c42a84.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//da382e11-7050-48b3-95b4-973e92100a3e/da382e11-7050-48b3-95b4-973e92100a3e.png",
@@ -355,7 +375,9 @@
         "title": "Zion 2 PF",
         "subtitle": "Men's Basketball Shoes",
         "price": 10795,
-        "tag": "Exclusive",
+        "description": "Non neque tempora non ipsum quaerat neque. Est dolore amet porro non amet neque. Dolor eius quaerat labore ut quisquam sed. Numquam dolore quisquam consectetur numquam quaerat quisquam dolore. Dolorem dolor est dolor amet tempora eius sit. Adipisci sit quisquam magnam non.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//68d0228a-eb7d-4078-ab50-d9382854178c/68d0228a-eb7d-4078-ab50-d9382854178c.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//2b629c36-d41d-40de-bd4e-a8303c692183/2b629c36-d41d-40de-bd4e-a8303c692183.png",
@@ -387,7 +409,9 @@
         "title": "NikeCourt Legacy Suede",
         "subtitle": "Men's Shoes",
         "price": 5995,
-        "tag": "Bestseller",
+        "description": "Dolorem tempora non magnam labore magnam. Porro ut est aliquam quisquam. Ut magnam sed adipisci aliquam eius dolore non. Sed ipsum consectetur ipsum. Dolor sed aliquam dolor voluptatem eius amet tempora.",
+        "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//bc376c3e-fb23-4d59-a9ff-e2407eaf1c8d/bc376c3e-fb23-4d59-a9ff-e2407eaf1c8d.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//86804bcb-7058-472b-b696-b15010502e93/86804bcb-7058-472b-b696-b15010502e93.png",
@@ -419,7 +443,9 @@
         "title": "Air Jordan 1 Mid SE Craft",
         "subtitle": "Men's Shoes",
         "price": 12295,
+        "description": "Dolore ipsum non porro consectetur sit aliquam. Voluptatem neque quisquam ut sed amet dolore est. Modi velit eius adipisci consectetur. Modi numquam etincidunt magnam. Consectetur dolor sed sit. Dolorem ut quiquia aliquam.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//cef1c1e1-8e83-4a1c-9202-8c60bd221a76/cef1c1e1-8e83-4a1c-9202-8c60bd221a76.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//c30e0c25-1518-4ea2-97d8-4a11108eacbe/c30e0c25-1518-4ea2-97d8-4a11108eacbe.png",
@@ -453,7 +479,9 @@
         "title": "Nike Air Force 1 '07 LV8 EMB",
         "subtitle": "Men's Shoes",
         "price": 10795,
-        "tag": "Collection",
+        "description": "Etincidunt est velit dolor magnam. Ut sed quiquia porro est etincidunt etincidunt. Sit sit est tempora est adipisci. Eius non sit quisquam consectetur. Consectetur aliquam voluptatem numquam. Adipisci non amet etincidunt non ipsum eius. Ipsum tempora dolorem quisquam magnam adipisci. Modi magnam quiquia aliquam consectetur etincidunt quisquam quaerat.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//cfc67fd4-38c0-4c45-87e0-80a0d985fd05/cfc67fd4-38c0-4c45-87e0-80a0d985fd05.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//7157d70a-1628-4924-bc11-eb742631c6da/7157d70a-1628-4924-bc11-eb742631c6da.png",
@@ -489,7 +517,9 @@
         "title": "Nike Zegama",
         "subtitle": "Men's Trail-Running Shoes",
         "price": 13995,
-        "tag": "New Arrival",
+        "description": "Tempora consectetur neque ipsum consectetur quiquia quisquam. Voluptatem sed quiquia non sed. Etincidunt quisquam dolor voluptatem porro. Dolorem ut ipsum tempora. Voluptatem numquam neque amet est. Amet tempora numquam tempora dolore quiquia. Quaerat sed numquam porro numquam amet neque. Velit aliquam quaerat tempora. Sed quaerat dolorem dolorem ipsum. Eius dolor aliquam dolore dolore dolor ipsum adipisci.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//4408623b-40fc-4bc0-8bf7-50a539144fb1/4408623b-40fc-4bc0-8bf7-50a539144fb1.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//39f31f8d-3fdf-428d-872e-7c12e8d6082b/39f31f8d-3fdf-428d-872e-7c12e8d6082b.png",
@@ -525,7 +555,9 @@
         "title": "Nike Court Vision Low",
         "subtitle": "Men's Shoes",
         "price": 6295,
+        "description": "Quiquia quisquam voluptatem quiquia quiquia dolore dolore dolorem. Consectetur porro ipsum ipsum voluptatem labore aliquam voluptatem. Consectetur voluptatem amet voluptatem est porro. Quaerat labore quaerat consectetur amet etincidunt porro. Ut dolor modi dolor porro. Modi adipisci est etincidunt. Ut porro dolor numquam magnam. Consectetur ipsum non eius velit porro. Aliquam numquam dolorem dolore quiquia ut.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//524a838f-2358-4bb6-ae3b-5b075e87c12d/524a838f-2358-4bb6-ae3b-5b075e87c12d.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//af0f2599-59e4-4d7b-bc8d-1e794a23e2ee/af0f2599-59e4-4d7b-bc8d-1e794a23e2ee.png",
@@ -557,7 +589,9 @@
         "title": "NikeCourt Air Zoom Vapor 9.5 Tour Premium",
         "subtitle": "Men's Tennis Shoes",
         "price": 15995,
+        "description": "Quisquam non sed tempora numquam. Dolore est sed velit. Est velit porro eius adipisci dolore consectetur porro. Amet dolore dolorem eius. Sed sed quisquam amet numquam consectetur. Dolor sit quiquia amet sit adipisci non amet. Aliquam ut sit est tempora ipsum. Adipisci tempora magnam porro etincidunt amet adipisci labore. Consectetur dolore labore quiquia quiquia. Non tempora aliquam sed dolorem velit quiquia.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//c44b6be3-8aa9-4c2f-8f87-c805e7a6ec94/c44b6be3-8aa9-4c2f-8f87-c805e7a6ec94.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//2cb7922e-f674-4cd2-a49f-6cc024ad9205/2cb7922e-f674-4cd2-a49f-6cc024ad9205.png",
@@ -589,7 +623,9 @@
         "title": "Nike Air Force 1 '07",
         "subtitle": "Men's Shoes",
         "price": 9695,
+        "description": "Velit tempora sit tempora est tempora. Sed amet sit est quisquam modi. Ipsum non amet quaerat quaerat est quisquam. Modi eius amet amet voluptatem numquam. Sed dolorem numquam etincidunt.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//2f9e087d-1f0f-4b72-8576-b7b7b64e73ae/2f9e087d-1f0f-4b72-8576-b7b7b64e73ae.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//71099a92-386c-4936-b710-9652597b4bba/71099a92-386c-4936-b710-9652597b4bba.png",
@@ -627,7 +663,9 @@
         "title": "Nike Air Force 1 '07 LV8",
         "subtitle": "Men's Shoes",
         "price": 10795,
+        "description": "Voluptatem dolor dolor quiquia adipisci numquam. Numquam eius voluptatem magnam etincidunt amet. Est amet ut sed eius. Modi adipisci tempora quaerat ipsum. Adipisci aliquam quaerat sed. Etincidunt sed voluptatem numquam quisquam ut quiquia. Sed amet aliquam neque ipsum.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3b05de1c-b694-48b1-9855-f8494f99e0b3/3b05de1c-b694-48b1-9855-f8494f99e0b3.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8aa897eb-7d59-4310-8d8f-10c66ed00a39/8aa897eb-7d59-4310-8d8f-10c66ed00a39.png",
@@ -663,7 +701,9 @@
         "title": "Nike Pegasus Trail 4 GORE-TEX",
         "subtitle": "Men's Waterproof Trail-Running Shoes",
         "price": 14995,
+        "description": "Quaerat velit dolorem ut. Aliquam etincidunt magnam consectetur neque non dolor. Neque etincidunt aliquam porro non quiquia sit dolore. Labore quaerat aliquam dolore quisquam. Ipsum magnam sit velit ut non porro dolorem. Labore modi porro amet quaerat. Sed amet porro quisquam. Eius adipisci voluptatem velit sed. Non dolorem velit dolor.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//6011ab1f-464d-4171-b994-0c95d85fcbc6/6011ab1f-464d-4171-b994-0c95d85fcbc6.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//e91e2c3f-7330-43a3-871e-34e079603beb/e91e2c3f-7330-43a3-871e-34e079603beb.png",
@@ -696,7 +736,9 @@
         "title": "Jordan Retro 6 G",
         "subtitle": "Men's Golf Shoes",
         "price": 19695,
+        "description": "Adipisci quiquia labore non neque amet. Tempora sed sed voluptatem labore etincidunt aliquam porro. Magnam voluptatem adipisci porro velit modi. Etincidunt dolorem dolorem tempora quaerat numquam. Magnam etincidunt est adipisci. Quaerat eius aliquam ipsum dolorem modi magnam velit. Amet dolor dolor tempora quaerat velit non eius. Amet modi quaerat dolor quisquam quisquam. Quisquam eius adipisci eius. Eius non velit sed sed.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//0b4a3898-096e-4c4e-a518-88b6892777fd/0b4a3898-096e-4c4e-a518-88b6892777fd.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//2999ec4b-77ff-46eb-aeda-b6f0e01ca01b/2999ec4b-77ff-46eb-aeda-b6f0e01ca01b.png",
@@ -730,7 +772,9 @@
         "title": "Nike Juniper Trail 2 Next Nature",
         "subtitle": "Men's Trail-Running Shoes",
         "price": 7095,
+        "description": "Aliquam etincidunt amet quisquam consectetur quiquia. Velit numquam dolorem dolorem. Quisquam est ipsum aliquam. Consectetur tempora aliquam neque quiquia voluptatem etincidunt. Aliquam sed quisquam labore numquam quiquia. Ipsum est consectetur dolor ut magnam. Dolor neque non est sit numquam. Adipisci aliquam etincidunt neque dolore dolorem labore. Ipsum porro voluptatem quiquia. Quiquia voluptatem aliquam velit ut.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//f2dda10b-3944-49b6-bedb-32848fad7d3b/f2dda10b-3944-49b6-bedb-32848fad7d3b.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//269a5b5d-0071-41aa-8a1e-0f6e559a17ec/269a5b5d-0071-41aa-8a1e-0f6e559a17ec.png",
@@ -766,7 +810,9 @@
         "title": "Nike Gripknit Phantom GX Elite Fusion FG",
         "subtitle": "Firm-Ground Football Boot",
         "price": 21995,
-        "tag": null,
+        "description": "Magnam amet velit aliquam. Quiquia sit tempora quisquam quisquam sed etincidunt porro. Sed sit sit velit sed ut porro. Numquam est dolorem voluptatem. Voluptatem quisquam dolor ut adipisci dolorem etincidunt. Est neque voluptatem amet velit etincidunt. Ut dolorem dolor dolorem. Dolor velit dolore modi quaerat. Modi sit labore ut aliquam magnam amet quiquia.",
+        "tag": "Exclusive",
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//d09b5962-c0e5-4088-a265-dd0d4952e03f/d09b5962-c0e5-4088-a265-dd0d4952e03f.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//73e77408-6b32-43ac-b65c-9b1a6184cf05/73e77408-6b32-43ac-b65c-9b1a6184cf05.png",
@@ -798,7 +844,9 @@
         "title": "Nike Pegasus Trail 4",
         "subtitle": "Men's Trail-Running Shoes",
         "price": 11595,
+        "description": "Sed amet adipisci sed porro. Dolorem magnam magnam neque dolor. Etincidunt est magnam ut. Magnam dolore sit numquam eius voluptatem. Modi sit porro numquam ut consectetur. Neque numquam quiquia non. Velit dolor ut neque dolore tempora modi sit. Quisquam velit dolor amet quisquam non.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//106d6d10-812a-4883-8a96-4849368a5011/106d6d10-812a-4883-8a96-4849368a5011.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//fb226221-9d41-4a70-a046-78ce202911dc/fb226221-9d41-4a70-a046-78ce202911dc.png",
@@ -831,7 +879,9 @@
         "title": "Nike Air Force 1 '07",
         "subtitle": "Men's Shoes",
         "price": 7495,
+        "description": "Amet neque sed porro labore est. Quisquam ipsum magnam dolorem aliquam consectetur. Est magnam sed dolor voluptatem dolor. Aliquam sit dolorem adipisci. Quaerat neque modi dolor labore eius magnam adipisci. Velit consectetur magnam dolor labore dolore non adipisci. Adipisci neque eius dolore magnam dolore non. Dolorem dolor dolor aliquam magnam quiquia est quaerat.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//e6da41fa-1be4-4ce5-b89c-22be4f1f02d4/e6da41fa-1be4-4ce5-b89c-22be4f1f02d4.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//c9e622c0-f478-4ffb-8def-fc11280e45bf/c9e622c0-f478-4ffb-8def-fc11280e45bf.png",
@@ -870,7 +920,9 @@
         "title": "Nike Court Vision Low Next Nature",
         "subtitle": "Men's Shoes",
         "price": 4995,
+        "description": "Dolore sit neque amet consectetur non consectetur. Eius dolore sit non numquam tempora dolorem magnam. Etincidunt ipsum adipisci velit labore. Quisquam eius est velit. Tempora quisquam dolorem etincidunt labore.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//012c85df-3b66-4fca-96f5-19f3afe7c029/012c85df-3b66-4fca-96f5-19f3afe7c029.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//32e1068a-cd36-478a-ad76-72df0e0af4e4/32e1068a-cd36-478a-ad76-72df0e0af4e4.png",
@@ -902,7 +954,9 @@
         "title": "Nike Cosmic Unity 2",
         "subtitle": "Basketball Shoes",
         "price": 13995,
-        "tag": null,
+        "description": "Velit dolore modi etincidunt quisquam. Non magnam dolorem aliquam porro adipisci sit adipisci. Dolore quisquam dolor consectetur tempora ut. Quisquam tempora velit modi. Eius tempora labore magnam modi quiquia voluptatem consectetur.",
+        "tag": "New Arrival",
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//5026d12c-d996-49d8-a703-591ce402f414/5026d12c-d996-49d8-a703-591ce402f414.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3810b578-abde-408a-8296-203040016bd4/3810b578-abde-408a-8296-203040016bd4.png",
@@ -938,7 +992,9 @@
         "title": "Nike Wildhorse 8",
         "subtitle": "Men's Trail-Running Shoes",
         "price": 11895,
+        "description": "Labore sit eius adipisci tempora. Dolore ut voluptatem consectetur. Modi adipisci magnam modi eius dolore modi. Dolore tempora adipisci dolor aliquam sit magnam dolorem. Aliquam adipisci non quaerat magnam. Quaerat dolore porro numquam sed etincidunt labore eius. Quisquam dolorem quisquam etincidunt neque tempora. Etincidunt est quisquam labore ut tempora non. Sit numquam numquam tempora magnam adipisci. Numquam quaerat non aliquam labore.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//d2c07fe8-742d-4f5c-aa64-957729267804/d2c07fe8-742d-4f5c-aa64-957729267804.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//87d45a18-404d-4a8e-813e-db8fef7dbf76/87d45a18-404d-4a8e-813e-db8fef7dbf76.png",
@@ -974,7 +1030,9 @@
         "title": "Nike Dunk Low Retro",
         "subtitle": "Men's Shoes",
         "price": 8695,
+        "description": "Dolore quiquia voluptatem ut aliquam est. Neque neque aliquam aliquam quiquia dolorem ut quisquam. Porro sit sed ut quisquam numquam. Velit ipsum labore aliquam consectetur tempora modi labore. Ut amet velit voluptatem adipisci quiquia. Sit etincidunt ut ipsum magnam.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//882971a3-7795-431e-8b85-8ea6582273cb/882971a3-7795-431e-8b85-8ea6582273cb.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//32629f93-65cf-42ce-8dfb-794b02aa4228/32629f93-65cf-42ce-8dfb-794b02aa4228.png",
@@ -1008,7 +1066,9 @@
         "title": "Air Jordan 1 Mid",
         "subtitle": "Men's Shoes",
         "price": 11495,
+        "description": "Quisquam adipisci etincidunt non tempora non. Velit porro modi porro ut ipsum etincidunt. Modi modi amet non dolor. Quiquia adipisci dolore quiquia sed est ipsum. Porro quiquia quisquam velit porro numquam.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//5bf8e7f4-18c7-4826-9bab-7b9532a5e3b6/5bf8e7f4-18c7-4826-9bab-7b9532a5e3b6.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b52e82d2-64ac-4a41-b83a-917bce5a16b4/b52e82d2-64ac-4a41-b83a-917bce5a16b4.png",
@@ -1042,7 +1102,9 @@
         "title": "Air Jordan 13 Retro",
         "subtitle": "Shoe",
         "price": 19295,
-        "tag": null,
+        "description": "Velit numquam neque ut labore velit. Ut tempora tempora ipsum non adipisci quisquam. Adipisci modi neque sed sed porro dolor dolorem. Neque porro tempora aliquam. Est voluptatem numquam quisquam. Tempora numquam ipsum labore quisquam sed sit quaerat. Sed numquam ut numquam. Dolor velit neque quiquia sed amet. Amet sed eius etincidunt.",
+        "tag": "Exclusive",
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//fadf1b0c-c687-4e3d-8f4e-6d089d115a0c/fadf1b0c-c687-4e3d-8f4e-6d089d115a0c.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//9c62009c-1df7-4071-9a6d-db15c6e5db90/9c62009c-1df7-4071-9a6d-db15c6e5db90.png",
@@ -1074,7 +1136,9 @@
         "title": "Nike Air More Uptempo '96",
         "subtitle": "Men's Shoes",
         "price": 15995,
-        "tag": "Bestseller",
+        "description": "Aliquam numquam consectetur quiquia modi. Amet porro ipsum voluptatem. Dolor sed modi aliquam. Dolore ut porro numquam eius aliquam. Quaerat dolor amet numquam. Magnam neque quisquam velit.",
+        "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//2557b521-7942-40b2-af87-9839b62bba32/2557b521-7942-40b2-af87-9839b62bba32.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a733e074-82b5-44be-b57f-3812d82e40c8/a733e074-82b5-44be-b57f-3812d82e40c8.png",
@@ -1106,7 +1170,9 @@
         "title": "Nike Dunk High Retro Premium",
         "subtitle": "Men's Shoes",
         "price": 11495,
+        "description": "Voluptatem quaerat dolorem labore. Ut ut modi quaerat est dolorem labore. Magnam adipisci sed ipsum quiquia dolor labore. Modi dolore voluptatem etincidunt quiquia eius consectetur labore. Sed dolore aliquam amet aliquam. Velit ut tempora sed adipisci neque. Labore neque quisquam quiquia. Amet est aliquam ut.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a6d9d750-a845-49c6-b130-1936a895877f/a6d9d750-a845-49c6-b130-1936a895877f.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a753e474-2504-4a13-883f-1eb04ee848d7/a753e474-2504-4a13-883f-1eb04ee848d7.png",
@@ -1140,7 +1206,9 @@
         "title": "Nike SB Dunk Low Pro Premium",
         "subtitle": "Skate Shoes",
         "price": 9695,
+        "description": "Dolore quisquam non adipisci non est etincidunt. Labore porro ipsum sed adipisci voluptatem velit. Adipisci sed quaerat modi. Ut non etincidunt dolore dolor. Ut aliquam etincidunt aliquam neque modi. Ut dolorem dolor numquam dolor est numquam. Dolorem modi porro magnam consectetur amet velit.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//54dc2b4d-98d9-49f1-8c0e-8aaea1a65974/54dc2b4d-98d9-49f1-8c0e-8aaea1a65974.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//932f6929-5200-4918-aa5e-773e3176a576/932f6929-5200-4918-aa5e-773e3176a576.png",
@@ -1175,7 +1243,9 @@
         "title": "Nike Air Force 1 Low Retro",
         "subtitle": "Men's Shoes",
         "price": 13995,
+        "description": "Eius adipisci sit adipisci etincidunt. Etincidunt quiquia quiquia est non porro. Tempora amet quisquam voluptatem neque quaerat. Modi tempora ipsum numquam non consectetur. Sit numquam velit est magnam. Voluptatem aliquam quaerat voluptatem. Quiquia porro quiquia porro. Sed dolore magnam quaerat sit. Dolorem tempora velit voluptatem.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//90568c97-e377-4de3-a426-8d8a1a2cdb92/90568c97-e377-4de3-a426-8d8a1a2cdb92.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//24f71178-77a3-4576-a42e-819a6489747c/24f71178-77a3-4576-a42e-819a6489747c.png",
@@ -1209,7 +1279,9 @@
         "title": "Nike Dunk High 1985",
         "subtitle": "Shoes",
         "price": 11895,
+        "description": "Amet ipsum numquam aliquam voluptatem numquam adipisci velit. Amet ipsum eius tempora sit. Consectetur neque dolorem modi magnam quisquam. Ut quisquam magnam non ipsum est consectetur. Numquam eius magnam modi ut. Magnam ut neque dolore etincidunt quaerat porro.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8abe4b4e-fadc-43e7-88ca-f150db4c5e6d/8abe4b4e-fadc-43e7-88ca-f150db4c5e6d.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//9d9e6585-ca72-483a-84e0-9cde02ee5fde/9d9e6585-ca72-483a-84e0-9cde02ee5fde.png",
@@ -1245,7 +1317,9 @@
         "title": "Nike Air Force 1 '07 LV8",
         "subtitle": "Men's Shoes",
         "price": 10795,
+        "description": "Sed labore porro tempora non porro quaerat. Velit neque neque non etincidunt voluptatem voluptatem dolor. Labore quaerat dolorem velit porro. Dolorem quiquia dolore labore sit magnam quaerat tempora. Eius aliquam eius numquam dolore magnam. Dolorem eius est est quisquam. Voluptatem sed velit labore etincidunt est eius. Porro ut aliquam tempora est aliquam neque. Consectetur dolore ut non. Non adipisci dolorem aliquam voluptatem quaerat sed non.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ded12e4f-902e-4d03-aeff-e5582635f78d/ded12e4f-902e-4d03-aeff-e5582635f78d.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//5ef0b785-5784-4a96-a686-2dca5bd84f30/5ef0b785-5784-4a96-a686-2dca5bd84f30.png",
@@ -1277,7 +1351,9 @@
         "title": "Air Jordan I High G",
         "subtitle": "Men's Golf Shoes",
         "price": 16995,
-        "tag": "Collection",
+        "description": "Etincidunt numquam sit aliquam. Aliquam quiquia quiquia dolorem modi voluptatem sit quiquia. Magnam sit ipsum labore dolorem amet aliquam tempora. Sit dolore quiquia etincidunt est dolore magnam tempora. Modi quiquia labore eius modi quaerat. Ut magnam neque est eius.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//de76cec1-ad70-423d-9d0f-28bd3a19f6e4/de76cec1-ad70-423d-9d0f-28bd3a19f6e4.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//f3423657-8839-4701-97b1-27abb4029442/f3423657-8839-4701-97b1-27abb4029442.png",
@@ -1310,7 +1386,9 @@
         "title": "Nike Air Force 1 Mid '07 LX",
         "subtitle": "Men's Shoes",
         "price": 12795,
-        "tag": "Collection",
+        "description": "Quisquam ipsum voluptatem adipisci dolore consectetur dolore. Dolore eius sed numquam. Quaerat porro etincidunt quisquam sit numquam non etincidunt. Labore numquam modi non tempora. Porro quaerat numquam velit adipisci dolor. Tempora etincidunt tempora modi ipsum dolor dolore quisquam.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//f190a992-411a-4990-bf8d-0e6023e937fe/f190a992-411a-4990-bf8d-0e6023e937fe.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//77973f30-943d-4a14-a2e2-b17712102bf3/77973f30-943d-4a14-a2e2-b17712102bf3.png",
@@ -1343,7 +1421,9 @@
         "title": "Nike Air Force 1 Mid React",
         "subtitle": "Men's Shoes",
         "price": 14195,
-        "tag": null,
+        "description": "Sit velit velit modi. Porro quiquia porro amet amet. Aliquam quiquia amet ipsum. Non velit neque eius. Quaerat numquam magnam sit neque dolor labore eius. Dolor dolore amet dolorem porro. Ut dolor eius quaerat ipsum.",
+        "tag": "Collection",
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//70b257d2-e16a-4e2c-9c64-45af16ede378/70b257d2-e16a-4e2c-9c64-45af16ede378.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//eba2f158-8fe8-4e88-b7fe-04b5797343e4/eba2f158-8fe8-4e88-b7fe-04b5797343e4.png",
@@ -1375,7 +1455,9 @@
         "title": "Nike Blazer Mid Pro Club",
         "subtitle": "Men's Shoes",
         "price": 9695,
-        "tag": "New Arrival",
+        "description": "Sit aliquam sed magnam velit. Adipisci labore velit quiquia. Ipsum consectetur velit sit. Dolore tempora modi dolor porro numquam tempora est. Velit porro amet sit ut ut neque. Velit sit non consectetur dolor sed quiquia adipisci. Amet est est labore ipsum dolore neque. Sed adipisci consectetur sit etincidunt amet non.",
+        "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//9c873d33-58ff-4a69-a28c-9deabb3631eb/9c873d33-58ff-4a69-a28c-9deabb3631eb.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//9da5f397-5015-4db3-9707-bc43751f8955/9da5f397-5015-4db3-9707-bc43751f8955.png",
@@ -1409,7 +1491,9 @@
         "title": "Jordan Delta 3 Low",
         "subtitle": "Men's Shoes",
         "price": 12795,
-        "tag": null,
+        "description": "Numquam tempora modi non. Dolorem aliquam est ut sed. Non consectetur sit quiquia. Sit eius non magnam ipsum dolore sit. Dolor quaerat ipsum adipisci amet ut. Dolorem numquam etincidunt dolore eius magnam modi. Dolorem numquam tempora sit eius consectetur. Neque sed est ipsum dolorem quaerat amet quiquia. Quiquia dolor sed numquam. Sed labore quaerat etincidunt labore numquam voluptatem aliquam.",
+        "tag": "Bestseller",
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//14105b35-cb2e-4865-862b-775233096865/14105b35-cb2e-4865-862b-775233096865.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//fbf43b13-a19c-4561-949a-633315ca6fec/fbf43b13-a19c-4561-949a-633315ca6fec.png",
@@ -1442,7 +1526,9 @@
         "title": "Nike Air Force 1 Mid '07",
         "subtitle": "Men's Shoes",
         "price": 10795,
+        "description": "Dolorem magnam etincidunt amet adipisci. Est velit sed eius dolor. Numquam etincidunt modi consectetur labore est sed. Eius velit consectetur neque aliquam labore amet. Modi dolorem quaerat labore numquam.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//f2f5ab29-36fb-48c7-81d9-50baa654b2b9/f2f5ab29-36fb-48c7-81d9-50baa654b2b9.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//c3fe41a5-9508-45fc-bd1e-9c3df3566463/c3fe41a5-9508-45fc-bd1e-9c3df3566463.png",
@@ -1476,7 +1562,9 @@
         "title": "Air Jordan 5 Retro SE",
         "subtitle": "Men's Shoes",
         "price": 20295,
+        "description": "Dolorem ut consectetur dolorem quiquia dolore etincidunt non. Tempora dolor neque velit dolor sed non. Aliquam neque sed quaerat labore tempora dolor adipisci. Adipisci quaerat tempora velit voluptatem neque ipsum. Ipsum ut sed neque magnam sed dolorem magnam.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b56167d3-98f7-41cd-9c43-17c475b8f032/b56167d3-98f7-41cd-9c43-17c475b8f032.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//056f37d5-695b-471a-8c04-bb4400bdc928/056f37d5-695b-471a-8c04-bb4400bdc928.png",
@@ -1511,7 +1599,9 @@
         "title": "Nike Air Max Scorpion Flyknit",
         "subtitle": "Men's Shoes",
         "price": 22995,
+        "description": "Non ut dolor numquam ipsum sit. Quisquam dolore non numquam. Modi dolore quisquam dolor eius dolorem. Quiquia quiquia sit labore. Consectetur dolore tempora ipsum tempora etincidunt. Neque non consectetur non sit. Numquam etincidunt aliquam sit eius voluptatem quaerat. Dolor porro consectetur velit dolor quiquia eius. Velit dolorem aliquam aliquam tempora sit.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//d75b0e4f-4776-44f9-9031-aaab92fdcb93/d75b0e4f-4776-44f9-9031-aaab92fdcb93.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//53167e83-f962-490f-b4b2-c92ac1529f6b/53167e83-f962-490f-b4b2-c92ac1529f6b.png",
@@ -1539,13 +1629,14 @@
             "13 UK"
         ]
     },
-
     {
         "id": "DM0103-057",
         "title": "Jordan ADG 4",
         "subtitle": "Men's Golf Shoes",
         "price": 17295,
+        "description": "Consectetur velit labore velit numquam. Etincidunt dolor consectetur dolor eius etincidunt velit. Aliquam magnam quaerat ipsum quaerat amet. Adipisci eius neque voluptatem etincidunt. Non eius aliquam tempora ipsum ut.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//0a99fbee-46a4-43ec-8e2b-48ee814e7e24/0a99fbee-46a4-43ec-8e2b-48ee814e7e24.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//48bebc8c-ae50-433d-83a9-dab7aaf00d89/48bebc8c-ae50-433d-83a9-dab7aaf00d89.png",
@@ -1573,11 +1664,47 @@
         ]
     },
     {
+        "id": "DQ6510-108",
+        "title": "Luka 1 PF",
+        "subtitle": "Men's Basketball Shoes",
+        "price": 9695,
+        "description": "Dolore neque magnam modi sed dolor. Etincidunt numquam porro neque labore sed. Dolorem voluptatem dolor dolorem. Ut ipsum sit adipisci quaerat. Quaerat etincidunt consectetur sit. Dolorem non tempora numquam quiquia sed numquam. Adipisci velit tempora quaerat neque aliquam dolorem quisquam.",
+        "tag": null,
+        "listed": false,
+        "images": [
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//971d422b-3407-4da9-9b10-bb831c949ba9/971d422b-3407-4da9-9b10-bb831c949ba9.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//53ba36ea-db30-41c1-aff8-42f48722583c/53ba36ea-db30-41c1-aff8-42f48722583c.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//e0f7c687-07e3-4fe1-ba91-af18464a860e/e0f7c687-07e3-4fe1-ba91-af18464a860e.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//09ed3f4b-7068-426d-b9cf-99eabb7e02a8/09ed3f4b-7068-426d-b9cf-99eabb7e02a8.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//07021215-251f-441b-85da-41db68b481ee/07021215-251f-441b-85da-41db68b481ee.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//de2782fc-6f0c-4e50-8380-471c23cce20c/de2782fc-6f0c-4e50-8380-471c23cce20c.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//e770f6ca-ecd5-4b5c-b223-ea8c869262b6/e770f6ca-ecd5-4b5c-b223-ea8c869262b6.png",
+            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//669a9ea9-090b-4240-ba21-e5ada54648d3/669a9ea9-090b-4240-ba21-e5ada54648d3.png"
+        ],
+        "sizes": [
+            "7 UK",
+            "7.5 UK",
+            "8 UK",
+            "8.5 UK",
+            "9 UK",
+            "9.5 UK",
+            "10 UK",
+            "10.5 UK",
+            "11 UK",
+            "11.5 UK",
+            "12 UK",
+            "12.5 UK",
+            "13 UK"
+        ]
+    },
+    {
         "id": "DV2413-405",
         "title": "Nike Zoom Mercurial Dream Speed Superfly 9 Elite FG",
         "subtitle": "Firm-Ground Football Boot",
         "price": 25095,
-        "tag": "New Arrival",
+        "description": "Consectetur non dolor numquam neque quaerat numquam consectetur. Labore aliquam quaerat ut. Dolore quiquia modi velit porro. Ipsum quiquia porro neque quisquam modi magnam. Velit dolore quiquia velit. Ut est sit numquam labore numquam labore. Adipisci sed sed tempora quisquam est voluptatem est.",
+        "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a83b7688-c1c8-4997-86c1-b6149e4d1990/a83b7688-c1c8-4997-86c1-b6149e4d1990.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//fbdef6c6-3d91-4522-abb5-e68154e4fab8/fbdef6c6-3d91-4522-abb5-e68154e4fab8.png",
@@ -1609,7 +1736,9 @@
         "title": "Nike Air Zoom Flight 95",
         "subtitle": "Men's Shoes",
         "price": 14995,
+        "description": "Numquam ut modi labore est numquam. Neque non labore modi voluptatem quiquia. Etincidunt etincidunt magnam labore. Velit quaerat quiquia eius sit tempora dolore eius. Dolor numquam magnam sed quiquia dolorem aliquam.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//850885fb-624d-42e8-b403-a72f282400ff/850885fb-624d-42e8-b403-a72f282400ff.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//630a8496-0cb9-4e4e-8757-4f3712bb949e/630a8496-0cb9-4e4e-8757-4f3712bb949e.png",
@@ -1641,7 +1770,9 @@
         "title": "Nike Air Penny 2",
         "subtitle": "Men's Shoes",
         "price": 18395,
+        "description": "Quisquam labore quiquia dolor est. Sed sit tempora etincidunt quaerat. Dolorem quaerat tempora amet. Dolorem dolor dolor amet numquam. Ut voluptatem amet quiquia dolore est numquam etincidunt. Amet quisquam amet dolore sed modi consectetur. Labore voluptatem quisquam numquam dolore aliquam. Porro ipsum numquam dolor. Tempora dolorem tempora non porro numquam tempora.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//4fe536ca-4075-40b4-8b07-7efd0f6b6183/4fe536ca-4075-40b4-8b07-7efd0f6b6183.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//954fdec1-791e-4338-89e8-9a6169d09ebd/954fdec1-791e-4338-89e8-9a6169d09ebd.png",
@@ -1673,7 +1804,9 @@
         "title": "Nike Zoom Mercurial Dream Speed Vapor 15 Elite FG",
         "subtitle": "Firm-Ground Football Boot",
         "price": 22995,
-        "tag": null,
+        "description": "Dolorem quiquia dolor magnam dolor aliquam. Eius neque ipsum quisquam dolorem voluptatem. Ipsum quisquam etincidunt non magnam. Non ipsum sit ipsum quiquia. Dolor numquam amet non sed. Adipisci sed tempora aliquam velit. Eius non tempora ut aliquam amet magnam dolore. Quaerat ipsum modi consectetur quiquia velit dolorem ipsum. Tempora dolorem dolore modi eius consectetur adipisci dolore.",
+        "tag": "Exclusive",
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//2f77bc3e-d25b-4955-8882-15e469949f29/2f77bc3e-d25b-4955-8882-15e469949f29.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//4a675ea3-4afa-4799-82b4-d3dd1b8e7470/4a675ea3-4afa-4799-82b4-d3dd1b8e7470.png",
@@ -1707,7 +1840,9 @@
         "title": "Nike Zoom Mercurial Dream Speed Vapor 15 Academy TF",
         "subtitle": "Turf Football Shoes",
         "price": 8495,
+        "description": "Velit consectetur dolore ut eius quisquam velit porro. Labore porro non non velit dolor aliquam porro. Consectetur dolor magnam ut. Dolore dolorem sit magnam amet velit. Ut neque quisquam dolor numquam consectetur consectetur.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3ece3f5b-f63b-43dd-bc80-f5b22ca7817c/3ece3f5b-f63b-43dd-bc80-f5b22ca7817c.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//fda6a47a-9b7f-44c3-964b-435a1de8a9dd/fda6a47a-9b7f-44c3-964b-435a1de8a9dd.png",
@@ -1735,7 +1870,9 @@
         "title": "Nike Pegasus Trail 4 GORE-TEX",
         "subtitle": "Men's Waterproof Trail-Running Shoes",
         "price": 14995,
-        "tag": null,
+        "description": "Tempora quisquam quisquam dolorem dolor porro. Etincidunt porro ut ut magnam modi quaerat dolorem. Ipsum eius ipsum sit amet est ipsum quaerat. Porro dolor aliquam amet dolorem neque velit. Labore numquam numquam sed sed. Porro labore neque adipisci etincidunt quaerat amet. Adipisci consectetur sed aliquam. Dolorem modi amet dolorem quiquia sit consectetur.",
+        "tag": "Collection",
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a69d5e94-9286-4cb4-924b-30d34b5ebe12/a69d5e94-9286-4cb4-924b-30d34b5ebe12.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b40e1e98-723a-40a4-9b97-3e804467536d/b40e1e98-723a-40a4-9b97-3e804467536d.png",
@@ -1770,7 +1907,9 @@
         "title": "Nike Wildhorse 7",
         "subtitle": "Men's Trail Running Shoes",
         "price": 10295,
+        "description": "Non numquam est modi. Neque labore sed aliquam labore magnam. Velit quiquia consectetur ipsum dolor numquam magnam. Est labore dolore magnam quiquia tempora quaerat amet. Dolor labore labore sed.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//1167947b-ee80-4ba0-98aa-c472afa682a9/1167947b-ee80-4ba0-98aa-c472afa682a9.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//815a59c2-9a0b-429d-a73d-5c3a815944d5/815a59c2-9a0b-429d-a73d-5c3a815944d5.png",
@@ -1803,7 +1942,9 @@
         "title": "Nike Air Force 1 '07",
         "subtitle": "Men's Shoes",
         "price": 10795,
-        "tag": null,
+        "description": "Sed dolore quiquia dolor porro consectetur. Consectetur etincidunt ut tempora etincidunt. Eius dolor dolor magnam voluptatem dolorem dolorem. Dolor voluptatem aliquam neque labore dolor numquam ut. Quaerat porro magnam tempora quisquam quiquia porro. Ipsum ut magnam sit voluptatem amet eius. Dolor dolorem magnam porro. Velit quaerat velit sed etincidunt ut labore labore.",
+        "tag": "Collection",
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b89c9e48-d1bf-4d72-afd5-18ac97a4c072/b89c9e48-d1bf-4d72-afd5-18ac97a4c072.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//53c4a59a-6a0a-4486-92a5-98a6bd0a309b/53c4a59a-6a0a-4486-92a5-98a6bd0a309b.png",
@@ -1838,7 +1979,9 @@
         "title": "Nike Free Metcon 4",
         "subtitle": "Training Shoes",
         "price": 10295,
+        "description": "Velit est est quiquia eius amet. Aliquam sed quaerat dolor quiquia dolore etincidunt. Magnam ipsum amet velit ut dolor. Amet amet quaerat est sed. Consectetur amet neque etincidunt dolor adipisci. Aliquam quisquam dolore etincidunt amet numquam. Modi modi dolor adipisci dolor. Neque magnam eius ipsum.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3954af94-ef0e-4277-a3a2-2df84eba652a/3954af94-ef0e-4277-a3a2-2df84eba652a.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3c0e409a-455a-4a39-ac06-28e4cc84dd98/3c0e409a-455a-4a39-ac06-28e4cc84dd98.png",
@@ -1872,7 +2015,9 @@
         "title": "General Purpose",
         "subtitle": "Shoes",
         "price": 9695,
-        "tag": null,
+        "description": "Dolore ipsum tempora aliquam. Voluptatem aliquam neque dolor. Amet quaerat etincidunt modi eius magnam adipisci etincidunt. Dolorem quaerat labore dolorem. Est labore labore etincidunt. Amet non amet neque ut labore quiquia magnam.",
+        "tag": "Bestseller",
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//381d4a5a-fd00-4d67-ac84-ab185e561182/381d4a5a-fd00-4d67-ac84-ab185e561182.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//f7a4e2ee-d3db-4d6e-8aae-c1e2943d5582/f7a4e2ee-d3db-4d6e-8aae-c1e2943d5582.png",
@@ -1909,7 +2054,9 @@
         "title": "Nike Air Max Dawn",
         "subtitle": "Men's Shoes",
         "price": 10795,
+        "description": "Etincidunt neque aliquam consectetur sed. Aliquam porro modi tempora. Modi non aliquam quaerat. Velit adipisci magnam est adipisci adipisci. Eius sit ut eius labore modi amet dolore. Amet quaerat eius dolorem sit sit.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//4abef2ff-4802-470e-9414-86d8d70fff6c/4abef2ff-4802-470e-9414-86d8d70fff6c.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//c58dffd0-8e6c-4934-a941-af3ca45d8a78/c58dffd0-8e6c-4934-a941-af3ca45d8a78.png",
@@ -1940,7 +2087,9 @@
         "title": "Nike Dunk Low Retro Premium",
         "subtitle": "Men's Shoes",
         "price": 9695,
+        "description": "Magnam ipsum amet tempora. Sit eius voluptatem aliquam ipsum. Quiquia adipisci quiquia consectetur modi porro consectetur. Dolor sit etincidunt quisquam tempora quaerat quisquam etincidunt. Quiquia aliquam sit sit quisquam quisquam non labore. Eius labore porro dolore ipsum etincidunt aliquam. Dolor etincidunt quaerat ut quaerat.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//4145c43c-322a-43f0-98e4-bc88b1ea3ce2/4145c43c-322a-43f0-98e4-bc88b1ea3ce2.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8edd86c5-3749-44dd-a2c8-8771f9c1d21a/8edd86c5-3749-44dd-a2c8-8771f9c1d21a.png",
@@ -1976,7 +2125,9 @@
         "title": "Air Jordan 1 Mid SE",
         "subtitle": "Men's Shoes",
         "price": 11895,
+        "description": "Quaerat quisquam ut est sed sed adipisci. Tempora quiquia consectetur est voluptatem sed. Adipisci consectetur porro dolorem modi quiquia. Dolore numquam ut eius. Modi quiquia numquam consectetur adipisci dolore numquam.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//616a8a2f-193d-437c-b336-b4df8eacf0d3/616a8a2f-193d-437c-b336-b4df8eacf0d3.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3bdbba9d-fd46-4bce-b9b7-a0adcf8783f3/3bdbba9d-fd46-4bce-b9b7-a0adcf8783f3.png",
@@ -2009,7 +2160,9 @@
         "title": "Jordan Series ES",
         "subtitle": "Men's Shoes",
         "price": 7495,
-        "tag": null,
+        "description": "Ut magnam tempora etincidunt labore. Eius non aliquam aliquam ut. Non labore dolor neque sit magnam. Dolore amet magnam numquam consectetur est etincidunt dolorem. Velit labore dolore etincidunt modi non quisquam ut. Aliquam voluptatem ipsum quiquia adipisci non eius. Ipsum etincidunt eius modi dolor non velit modi. Quiquia dolorem modi adipisci sed. Quiquia non sed numquam neque. Quiquia quisquam dolore labore.",
+        "tag": "Bestseller",
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//c8f9b958-28de-44cb-83ac-37779c67e27c/c8f9b958-28de-44cb-83ac-37779c67e27c.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//96184034-58a3-44a3-89af-6e79a33724ee/96184034-58a3-44a3-89af-6e79a33724ee.png",
@@ -2041,7 +2194,9 @@
         "title": "Nike Air Max Sol",
         "subtitle": "Men's Sandals",
         "price": 7095,
+        "description": "Ut quisquam neque numquam sit eius magnam consectetur. Ut magnam adipisci ut. Quisquam aliquam ut neque. Sit eius dolore modi. Adipisci quisquam porro quaerat. Voluptatem porro etincidunt consectetur eius dolore.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//54861342-faa9-42a4-a4cb-f9e56abc5c4e/54861342-faa9-42a4-a4cb-f9e56abc5c4e.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//12943d0a-6cb7-466d-8e4c-452cee59576b/12943d0a-6cb7-466d-8e4c-452cee59576b.png",
@@ -2068,7 +2223,9 @@
         "title": "Nike Air Max 90",
         "subtitle": "Men's Shoes",
         "price": 10795,
+        "description": "Labore modi adipisci dolor consectetur non. Porro numquam sit dolore. Quaerat aliquam quiquia non est. Amet amet non ipsum etincidunt ut dolor magnam. Numquam tempora eius aliquam magnam sit dolore quiquia. Non magnam adipisci sed sed. Labore tempora tempora quiquia tempora magnam dolor. Modi tempora magnam quaerat eius est consectetur eius. Eius porro dolorem modi est modi. Quaerat tempora dolore dolorem voluptatem eius sed neque.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ef113dfb-7010-41e3-8081-aeae070498e6/ef113dfb-7010-41e3-8081-aeae070498e6.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ca37a8c5-0fca-4582-b55b-6bd46a50816a/ca37a8c5-0fca-4582-b55b-6bd46a50816a.png",
@@ -2100,7 +2257,9 @@
         "title": "Nike Air Force 1 Low x UNDEFEATED",
         "subtitle": "Men's Shoes",
         "price": 13995,
+        "description": "Etincidunt tempora dolorem magnam. Modi magnam eius non. Ut etincidunt ut voluptatem quaerat quaerat porro. Quaerat quisquam velit dolorem labore. Porro dolor aliquam ipsum adipisci ipsum velit voluptatem. Sed neque ipsum tempora numquam sed velit. Labore porro sed magnam consectetur. Magnam sed neque amet dolore.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//90b11864-9cc4-4ede-a787-f50eadb7b1cb/90b11864-9cc4-4ede-a787-f50eadb7b1cb.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//7af25b35-8b1f-4ca1-81e8-bba4a26160ff/7af25b35-8b1f-4ca1-81e8-bba4a26160ff.png",
@@ -2141,7 +2300,9 @@
         "title": "Nike Dunk High Retro",
         "subtitle": "Men's Shoes",
         "price": 10295,
+        "description": "Non adipisci eius etincidunt sed. Est ut etincidunt dolor sit dolore aliquam eius. Voluptatem consectetur neque est adipisci voluptatem amet quaerat. Quisquam consectetur eius est amet tempora consectetur. Amet ipsum aliquam dolorem modi modi. Amet neque consectetur amet numquam adipisci non. Numquam tempora voluptatem dolorem. Adipisci quaerat ipsum eius sit magnam.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8e5c2b2d-ffed-4874-a843-338faf37b8e3/8e5c2b2d-ffed-4874-a843-338faf37b8e3.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//cbe2f65f-a88a-4c8e-981e-2efec829febe/cbe2f65f-a88a-4c8e-981e-2efec829febe.png",
@@ -2173,7 +2334,9 @@
         "title": "Nike Revolution 6 FlyEase Next Nature",
         "subtitle": "Men's Easy On/Off Road Running Shoes",
         "price": 3695,
-        "tag": "New Arrival",
+        "description": "Non labore non sit adipisci dolor etincidunt est. Voluptatem aliquam dolor numquam neque numquam aliquam. Ut neque aliquam sed dolorem dolor quiquia. Adipisci consectetur ut magnam magnam. Modi dolore quaerat aliquam. Velit non dolorem porro magnam labore. Sed dolor numquam ipsum dolor.",
+        "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ac871484-8738-44cf-abbd-4d347ad536e9/ac871484-8738-44cf-abbd-4d347ad536e9.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ea939d7e-15d5-484e-a5f1-663218741865/ea939d7e-15d5-484e-a5f1-663218741865.png",
@@ -2208,7 +2371,9 @@
         "title": "Jordan Break",
         "subtitle": "Slides",
         "price": 1995,
+        "description": "Voluptatem etincidunt velit etincidunt amet. Magnam dolor consectetur velit quaerat. Modi dolor numquam porro quisquam non porro. Porro neque numquam voluptatem est sit quisquam ipsum. Dolore consectetur sit ipsum aliquam numquam. Dolorem est voluptatem dolorem tempora aliquam. Dolor sit consectetur aliquam.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//d9eae09e-edd8-4a90-ac9c-162606e8e8b5/d9eae09e-edd8-4a90-ac9c-162606e8e8b5.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//5d39af8a-30e3-4150-bc04-d73561f1c237/5d39af8a-30e3-4150-bc04-d73561f1c237.png",
@@ -2233,7 +2398,9 @@
         "title": "Jordan Max Aura 4",
         "subtitle": "Men's Shoes",
         "price": 11295,
+        "description": "Aliquam quisquam dolore voluptatem quisquam velit non. Consectetur sit sit dolorem. Ipsum est est etincidunt etincidunt neque dolor quisquam. Aliquam labore magnam magnam sed velit. Velit dolor dolore sit modi velit.",
         "tag": null,
+        "listed": false,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//d3ec656f-befc-406b-a80e-08856ed76f78/d3ec656f-befc-406b-a80e-08856ed76f78.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//0ebf7758-01e9-4068-ab84-7d29affc6b02/0ebf7758-01e9-4068-ab84-7d29affc6b02.png",
@@ -2267,7 +2434,9 @@
         "title": "Air Jordan 6 Retro",
         "subtitle": "Shoes",
         "price": 18395,
+        "description": "Labore consectetur voluptatem dolore dolorem etincidunt quaerat. Labore sed aliquam etincidunt etincidunt. Etincidunt ipsum quiquia aliquam labore ut consectetur. Sit neque labore amet voluptatem quiquia. Dolore aliquam dolor sed voluptatem sit. Non velit quaerat neque. Sed voluptatem voluptatem eius amet voluptatem. Adipisci neque quisquam neque neque.",
         "tag": null,
+        "listed": true,
         "images": [
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8fa954ce-2703-45fe-aafb-9a06b8426ed6/8fa954ce-2703-45fe-aafb-9a06b8426ed6.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//3a08b9e8-d224-4c48-adf2-501cd3542978/3a08b9e8-d224-4c48-adf2-501cd3542978.png",
@@ -2278,38 +2447,6 @@
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b41ad5da-0f35-4031-bb8f-1471d93b1060/b41ad5da-0f35-4031-bb8f-1471d93b1060.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a3488cd7-367c-4365-8c96-4734f223bf02/a3488cd7-367c-4365-8c96-4734f223bf02.png",
             "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//b01302bd-86c5-4a5b-b9d3-7e96126c14fe/b01302bd-86c5-4a5b-b9d3-7e96126c14fe.png"
-        ],
-        "sizes": [
-            "7 UK",
-            "7.5 UK",
-            "8 UK",
-            "8.5 UK",
-            "9 UK",
-            "9.5 UK",
-            "10 UK",
-            "10.5 UK",
-            "11 UK",
-            "11.5 UK",
-            "12 UK",
-            "12.5 UK",
-            "13 UK"
-        ]
-    },
-    {
-        "id": "DO7192-007",
-        "title": "Jordan One Take 4 PF",
-        "subtitle": "Men's Shoes",
-        "price": 8695,
-        "tag": null,
-        "images": [
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//ed1fa4f9-93c1-4ebc-96b3-f0a757aced15/ed1fa4f9-93c1-4ebc-96b3-f0a757aced15.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//58ad0d85-e141-4ed8-95d4-a632091ff357/58ad0d85-e141-4ed8-95d4-a632091ff357.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//15efa151-202d-4f3e-b704-75e7ea3cbfaa/15efa151-202d-4f3e-b704-75e7ea3cbfaa.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8310c2ff-5848-40f1-90ae-397ac0822db7/8310c2ff-5848-40f1-90ae-397ac0822db7.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//0658ddf4-f2f4-45ea-be76-560ae36c756d/0658ddf4-f2f4-45ea-be76-560ae36c756d.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//49ab0810-7b1d-4782-9f31-e49640a146ad/49ab0810-7b1d-4782-9f31-e49640a146ad.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//8c005641-f4c8-4b79-9d0f-76111624acd0/8c005641-f4c8-4b79-9d0f-76111624acd0.png",
-            "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5//a47a0fa2-f6f2-4abc-896a-cf3416a8a1d2/a47a0fa2-f6f2-4abc-896a-cf3416a8a1d2.png"
         ],
         "sizes": [
             "7 UK",

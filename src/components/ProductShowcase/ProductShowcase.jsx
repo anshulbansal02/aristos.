@@ -27,7 +27,14 @@ export default function ProductShowcase({ productId }) {
     }
 
     function handleAddToCart() {
-        dispatch(addToCart({ productId, quantity: 1, size: selectedSize }));
+        dispatch(
+            addToCart({
+                productId,
+                quantity: 1,
+                size: selectedSize,
+                price: product.price,
+            })
+        );
     }
 
     function handleRemoveFromCart() {
@@ -117,12 +124,7 @@ export default function ProductShowcase({ productId }) {
                     </button>
                 </div>
 
-                <p className={styles.description}>
-                    Channel new levels of speed and power in shoes designed for
-                    Zion and built for ballers at any level. An adjustable strap
-                    up top helps lock your foot in place while a firm midsole
-                    supports high-paced play.
-                </p>
+                <p className={styles.description}>{product.description}</p>
             </div>
         </div>
     );
